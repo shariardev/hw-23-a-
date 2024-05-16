@@ -1,0 +1,19 @@
+*{
+    outline: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.colour{
+    background-color: red;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(red, green, blue);
+}
+.colour button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
